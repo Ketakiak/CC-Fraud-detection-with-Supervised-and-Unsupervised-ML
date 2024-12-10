@@ -8,10 +8,15 @@ The project is implemented in a Jupyter Notebook, using the Python programming l
 
 # Flow for my evaluation:
 Load dataset
+
 View dataset
+
 Data preprocessing
+
 Model Training with hyperparameters tuning
+
 Model evaluation
+
 
 # Download the data from this link
 [https://www.kaggle.com/datasets/jacklizhi/creditcard](url)
