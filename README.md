@@ -1,4 +1,4 @@
-# CC-Fraud-detection-with-Supervised-and-Unsupervised-ML
+# CC Fraud detection with Supervised and Unsupervised ML
 
 # Problem Statement
 The Credit Card Classification Project is a machine learning project focused on classifying credit card transactions into 2 different categories. This system is designed to help identify and categorize credit card transactions accurately. I have used both supervised and unsupervised ml algorithms.
