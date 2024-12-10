@@ -17,15 +17,15 @@ Model evaluation using metrics like Accuracy, Precision, Recall, F1-score, and A
 The project is implemented in a Jupyter Notebook, using the Python programming language and several popular machine learning libraries such as NumPy, Pandas, Matplotlib, and Seaborn. The data used in this project is a simulated dataset of individuals and their credit scores, which I use to train and evaluate several different machine learning models mainly focused on Logistic Regression and XGBoost model. For unsupervised, anomly detection using Isolation forest is used.
 
 # Features
-Data Preprocessing: Scaling, missing value imputation, and class balancing.
+**Data Preprocessing:** Scaling, missing value imputation, and class balancing.
 
-EDA: Insights into transaction patterns and fraud trends.
+**EDA:** Insights into transaction patterns and fraud trends.
 
-Model Training: Supports Logistic Regression, Random Forest, and XGBoost.
+**Model Training:** Supports Logistic Regression , XGBoost and Isolation Forest.
 
-Hyperparameter Tuning: Grid search and cross-validation.
+**Hyperparameter Tuning:** Grid search and cross-validation.
 
-Evaluation: Metrics include precision-recall and AUC-ROC curves.
+**Evaluation:** Metrics include precision-recall,f1 score and AUC-ROC curves.
 
 
 
